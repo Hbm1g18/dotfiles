@@ -1,0 +1,17 @@
+# Font configuration
+[font]
+normal = { family = "JetBrainsMono Nerd Font Mono", style = "Regular" }
+size = 18
+
+# Window configuration
+[window]
+dimensions = { columns = 200, lines = 50 }
+padding = { x = 10, y = 10 }
+opacity = 0.95
+title = "NEOVIM"
+decorations = "Buttonless"
+
+# Primary colors configuration
+[colors.primary]
+background = "#1d232f"
+
