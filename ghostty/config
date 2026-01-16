@@ -1,0 +1,9 @@
+theme = catpuccin-mocha.conf
+maximize = true
+font-size = 20
+background-opacity = 0.96
+cursor-style = block
+cursor-opacity = 0.75
+cursor-color = lightsteelblue4
+copy-on-select = true
+
